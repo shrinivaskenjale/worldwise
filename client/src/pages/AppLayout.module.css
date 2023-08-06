@@ -1,0 +1,15 @@
+.app {
+  min-height: 100vh;
+  padding: 2.4rem;
+  overscroll-behavior-y: none;
+  display: flex;
+  position: relative;
+  /* flex-wrap: wrap; */
+  flex-direction: column;
+}
+
+@media screen and (min-width: 1000px) {
+  .app {
+    flex-direction: row;
+  }
+}

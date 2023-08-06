@@ -1,0 +1,33 @@
+.sidebar {
+  /* flex-basis: 56rem; */
+  background-color: var(--color-dark--1);
+  padding: 3rem 5rem 3.5rem 5rem;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: calc(100vh - 4.8rem);
+  padding-top: 10rem;
+}
+
+.footer {
+  margin-top: auto;
+  display: none;
+}
+
+@media screen and (min-width: 1000px) {
+  .sidebar {
+    flex-basis: 56rem;
+    min-height: auto;
+    height: calc(100vh - 4.8rem);
+    padding-top: 3rem;
+  }
+  .footer {
+    display: block;
+  }
+}
+
+.copyright {
+  font-size: 1.2rem;
+  color: var(--color-light--1);
+}

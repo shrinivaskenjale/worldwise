@@ -1,0 +1,100 @@
+{
+  "cities": [
+    {
+      "cityName": "Satara",
+      "country": "India",
+      "countryCode": "IN",
+      "date": "2023-08-05T06:00:30.502Z",
+      "notes": "Home town",
+      "position": {
+        "lat": "17.683507801790846",
+        "lng": "74.01901245117189"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Vogtei",
+      "country": "Germany",
+      "countryCode": "DE",
+      "date": "2023-08-05T06:01:10.213Z",
+      "notes": "German cars",
+      "position": {
+        "lat": "51.13146485772452",
+        "lng": "10.360107421875002"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Pune",
+      "country": "India",
+      "countryCode": "IN",
+      "date": "2023-08-06",
+      "notes": "",
+      "position": {
+        "lat": "18.620284831024502",
+        "lng": "73.83464813232423"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Barsi",
+      "country": "India",
+      "countryCode": "IN",
+      "date": "2023-08-05T18:30:00.000Z",
+      "notes": "",
+      "position": {
+        "lat": "18.308748489549696",
+        "lng": "75.76171875000001"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Pune",
+      "country": "India",
+      "countryCode": "IN",
+      "date": "2023-08-05T18:30:00.000Z",
+      "notes": "",
+      "position": {
+        "lat": "18.72502478107296",
+        "lng": "73.63243103027345"
+      },
+      "id": 5
+    },
+    {
+      "cityName": "Pune",
+      "country": "India",
+      "countryCode": "IN",
+      "date": "2023-09-05T18:30:00.000Z",
+      "notes": "",
+      "position": {
+        "lat": "18.79393444202574",
+        "lng": "73.76770019531251"
+      },
+      "id": 6
+    },
+    {
+      "cityName": "Pune",
+      "country": "India",
+      "countryCode": "IN",
+      "date": "2023-08-18T18:30:00.000Z",
+      "notes": "",
+      "position": {
+        "lat": "18.930345827186837",
+        "lng": "73.7505340576172"
+      },
+      "id": 7
+    },
+    {
+      "cityName": "Pune",
+      "country": "India",
+      "countryCode": "IN",
+      "date": "2023-08-29T18:30:00.000Z",
+      "notes": "",
+      "position": {
+        "lat": "19.05047117621043",
+        "lng": "73.70178222656251"
+      },
+      "id": 8
+    }
+  ]
+}
